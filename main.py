@@ -8,3 +8,6 @@ if __name__ == "__main__":
     count = int(input("How many random numbers do you want? "))
     numbers = generate_random_numbers(count)
     print(f"Generated numbers: {numbers}")
+
+
+print("Salom dunyo")
